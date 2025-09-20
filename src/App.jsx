@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Components/Navbar'
-import NorthGoa from './Components/NOrthGoa'
+import NorthGoa from './Components/NorthGoa'
 import SouthGoa from './Components/SouthGoa'
 import Bangaluru from './Components/Bangaluru'
 import Pune from './Components/Pune'
